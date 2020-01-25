@@ -1,11 +1,18 @@
-4
-|||
+1 
+||| 
+[B][COLOR white]Adicionado novos filmes:[/COLOR][/B]
 
-[B][COLOR red]Adicionado novos filmes:[/COLOR red][/B]
+Please be patient as we are updating the DesiTV Media Center boxes! 
 
+[COLOR white]Doutor Sono (2019)
+Downton Abbey - O Filme (2019)[/COLOR][/B]
+
+[B][COLOR red]Adicionado novos filmes:[/COLOR][/B]
+[COLOR golden]
 Mais um filme pra conta
 Doutor Sono (2019)
 Downton Abbey - O Filme (2019)
 Teste
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg
 Doutor Sono
+[/COLOR golden]
