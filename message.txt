@@ -1,4 +1,4 @@
-3
+4
 |||
 
 [B][COLOR red]Adicionado novos filmes:[/COLOR red][/B]
@@ -7,4 +7,5 @@ Mais um filme pra conta
 Doutor Sono (2019)
 Downton Abbey - O Filme (2019)
 Teste
-
+https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg
+Doutor Sono
