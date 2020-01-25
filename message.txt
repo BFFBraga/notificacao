@@ -1,14 +1,16 @@
-6
+1
 ||| 
-[B][COLOR white]Adicionado novos filmes:[/COLOR][/B]
+[B][COLOR=goldenrod]EM BREVE:[/COLOR][/B]
+[COLOR white]Frozen 2 (2019)
+Juminji: Fase 2[/COLOR]
 
+[B][COLOR=goldenrod]NOVOS FILMES ADICIONADOS:[/COLOR][/B]
 [COLOR white]Doutor Sono (2019)
-Downton Abbey - O Filme (2019)[/COLOR][/B]
-
-[B][COLOR red]Adicionado novos filmes:[/COLOR]
-
-[COLOR golden]Mais um filme pra conta
-Doutor Sono (2019)
 Downton Abbey - O Filme (2019)
-Teste
-Doutor Sono[/COLOR golden]
+O Exterminador do Futuro: Destino Sombrio (2019)
+Invasão ao Serviço Secreto (2019)[/COLOR]
+
+[B][COLOR=goldenrod]CORREÇÃO DE FILMES:[/COLOR][/B]
+[COLOR white]Coringa (2019)
+Projeto Gemini (2019)
+Predadores Assassinos (2019)[/COLOR]
